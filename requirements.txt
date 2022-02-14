@@ -1,0 +1,12 @@
+cffi==1.15.0
+colorama==0.4.4
+cryptography==36.0.1
+distlib==0.3.4
+filelock==3.4.2
+platformdirs==2.5.0
+pycparser==2.21
+pyperclip==1.8.2
+python-cfonts==1.5.2
+six==1.16.0
+termcolor==1.1.0
+virtualenv==20.13.1
